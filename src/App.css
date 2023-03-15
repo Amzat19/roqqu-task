@@ -1,0 +1,39 @@
+.App {
+  background-color: rgb(50, 56, 63);
+  min-height: 100vh;
+}
+
+section {
+  max-width: 70vw;
+  margin: auto;
+}
+
+svg {
+  padding: 10.4rem 0 1.2rem;
+}
+
+.steps {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.totalsteps {
+  color: rgb(167, 177, 188);
+}
+
+.progress-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.stage {
+  height: 0.1rem;
+  width: 100%;
+  background-color: white;
+}
+
+.progress-stage-1 {
+  background-color: rgb(160, 210, 254);
+}

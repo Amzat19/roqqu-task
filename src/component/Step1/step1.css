@@ -1,0 +1,44 @@
+.step1 {
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 24px;
+    color: white;
+}
+
+h3 {
+    font-size: 16px;
+    color: rgb(167, 177, 188);
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+
+label {
+    color: rgb(167, 177, 188);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.username {
+    outline: none;
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(167, 177, 188);
+
+}
+
+svg {
+    padding: 0 0 0 12px;
+}
+
+.usernameandlogo {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(167, 177, 188);
+    height: 2.5rem;
+    border-radius: 8px;
+    margin-top: 8px;
+}
